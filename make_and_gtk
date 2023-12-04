@@ -1,0 +1,5 @@
+#!/bin/zsh
+
+make WAVES=1
+
+gtkwave sim_build/counter.fst

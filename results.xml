@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1701702119" />
+    <testcase name="test" classname="test" file="/Users/xidad/Documents/study/FPGA/test.py" lineno="13" time="0.008680105209350586" sim_time_ns="110.001" ratio_time="12672.772661960613" />
+  </testsuite>
+</testsuites>
